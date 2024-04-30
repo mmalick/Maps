@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="google_maps_api_key">Y</string>
+    <string name="rabbitmq_password"> </string>
+    <string name="rabbitmq_hostname">amqps://ubrjcdfi:***@roedeer.rmq.cloudamqp.com/</string>
+    <string name="rabbitmq_username"></string>
+</resources>
